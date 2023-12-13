@@ -6,10 +6,10 @@ timezone: Europe/Istanbul
 
 title: Batu
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline:  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Kendi halinde gelişmeye çalışan biri.
 
 url: "https://baturax.software"
 
