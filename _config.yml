@@ -20,7 +20,7 @@ social:
   name: Batu
   email: baturax@baturax.software
   links:
-    - https://github.com/username
+    - https://github.com/baturax
 
 google_site_verification: # fill in to your verification string
 
@@ -28,7 +28,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: -246BS5Q6ZR
+  id: 
 
 theme_mode: dark
 
