@@ -1,13 +1,8 @@
 # Bundler cache
-.bundle
-vendor
-Gemfile.lock
 
 # Jekyll cache
-.jekyll-cache
 
 # RubyGems
-*.gem
 
 # NPM dependencies
 node_modules
