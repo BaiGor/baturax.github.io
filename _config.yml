@@ -52,20 +52,11 @@ comments:
     reactions_enabled: "1"
     crossorigin: "anonymous"
 
-# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
-assets:
-  self_host:
-    enabled: # boolean, keep empty means false
-    # specify the Jekyll environment, empty means both
-    # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
-
 pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
 
-# The base URL of your site
 baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
