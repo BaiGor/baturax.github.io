@@ -11,14 +11,14 @@ tagline:  # it will display as the sub-title.
 description: >- # used by seo meta and the atom feed
   Kendi halinde gelişmeye çalışan biri.
 
-url: "https://baturax.software"
+url: "https://muzik.baturax.com.tr"
 
 github:
   username: baturax
 
 social:
   name: Batu
-  email: baturax@baturax.software
+  email: 
   links:
     - https://github.com/baturax
 
@@ -28,7 +28,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-H8WJX1C2LX
+  id: 
 
 theme_mode: dark
 
